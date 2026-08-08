@@ -33,6 +33,17 @@ O objetivo deste projeto foi automatizar os fluxos mais críticos de um e-commer
 |---------|---------------------|
 | Adicionar um produto ao carrinho | Contador do carrinho atualiza de 3 para 4 produtos |
 
+## Evidências de execução
+
+**Login**
+![Testes de Login](evidencias/Login.png)
+
+**Cadastro**
+![Testes de Cadastro](evidencias/Cadastro.png)
+
+**Carrinho**
+![Testes de Carrinho](evidencias/Carrinho.png)
+
 ## Estrutura do projeto
 
 ```
