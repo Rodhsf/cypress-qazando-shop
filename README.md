@@ -35,16 +35,18 @@ O objetivo deste projeto foi automatizar os fluxos mais críticos de um e-commer
 
 ## Estrutura do projeto
 
+```
 cypress/
 ├── e2e/
-│ ├── login.cy.js # Testes de login
-│ ├── cadastro.cy.js # Testes de cadastro
-│ └── carrinho.cy.js # Testes de carrinho
+│   ├── login.cy.js       # Testes de login
+│   ├── cadastro.cy.js    # Testes de cadastro
+│   └── carrinho.cy.js    # Testes de carrinho
 └── support/
-├── commands.js
-└── e2e.js
+    ├── commands.js
+    └── e2e.js
 cypress.config.js
 package.json
+```
 
 ## Como executar o projeto
 
